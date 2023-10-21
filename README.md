@@ -77,5 +77,22 @@ Return
 * When we look at the row with the months, the month marked as 0 represents the first-time customers for the company.
 * When we examine the 0 column, we observe the count of new customers acquired in consecutive months.
 * For example, in December 2009, the company gained 955 new customers.
+    - ![image](https://github.com/hamzaugursumer/CohortAnalysis-PowerBI/assets/127680099/7fee4f58-1bed-4e52-b836-2378eaf8fc22)
 * When we look at this consecutively, we are tracking a declining trend in acquiring new customers.
 * Therefore, the company should take actions to improve customer acquisition.
+    - **So what should we do if we can't get new customers?**
+    - **We should Define the Customer Profile:** By examining our current customers and our best customers, we should identify the ideal customer profile.
+    - **We should Conduct Market Research:** We need to understand the needs and demands of our potential customers. We should determine which products or services are in higher demand.
+    - **We should Improve Our Marketing Strategies:** To attract new customers, we should review our marketing strategies. We should focus on better targeting, more attractive offers, and creating attention-grabbing advertising campaigns.
+    - **We should Enhance Our Website and Online Presence:** Strengthening our online presence is essential. We should improve the user experience on our website, carry out SEO efforts, and effectively use social media platforms.
+    - **We should Create Loyalty Programs:** To retain our existing customers, we should establish loyalty programs. By offering incentives like reward programs or discounts, we can increase customer loyalty.
+    - **We should Evaluate Customer Feedback:** It's important to carefully assess customer feedback and use it as a basis for improving our products or services.
+* When we want to look at the cohort chart at a row level, we see how many of the new customers have continued to make purchases from us in the following months and have remained engaged.
+    - ![image](https://github.com/hamzaugursumer/CohortAnalysis-PowerBI/assets/127680099/f1f417ff-a015-4fe5-8132-0e6111c3d99e)
+    - For example, when we look at April 2010, we acquired 294 new customers. However, in the following month, only 57 of them have continued to engage with us and made purchases. When looking at the overall chart, it's evident that new customers acquired are gradually lost as the months progress.
+
+## **📌The most important points in cohort analysis**
+
+* ![image](https://github.com/hamzaugursumer/CohortAnalysis-PowerBI/assets/127680099/25ccf7fc-281c-46a6-831d-8dd19c8f3e94)
+   - When we look at December 2010, we can consider it as the date with the highest customer churn rate within the cohort analysis. Only 9% of the new customers we acquired have continued.
+   - In our cohort table, I believe the standout months are the 3rd and 4th months. I consider these months critical for retaining customers because we've observed consecutive declines during that period. Equipped with this information, the e-commerce business can now start addressing the reasons behind this trend and take new measures to halt it. For example, they can develop a three-month loyalty campaign to re-engage customers and prevent the trend of declining interest.
