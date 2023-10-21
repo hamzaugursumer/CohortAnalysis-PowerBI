@@ -1,6 +1,6 @@
 # 📈**Cohort Analysis with Power BI**
 
-<img src="https://github.com/hamzaugursumer/CohortAnalysis-PowerBI/assets/127680099/5c5eae3f-5a9c-4890-959c-555a271219b1" width="1700" height="600">
+<img src="![image](https://github.com/hamzaugursumer/CohortAnalysis-PowerBI/assets/127680099/8735adb3-2f6a-4b90-b207-cc69a0d82051)" width="1700" height="600">
 
 * **You can access the dataset by [clicking here](https://archive.ics.uci.edu/dataset/502/online+retail+ii).**
 * **You can access the visualization PDFs of the cohort study with Power BI [here](https://github.com/hamzaugursumer/CohortAnalysis-PowerBI/blob/main/Cohort%20pdf.pdf).**
